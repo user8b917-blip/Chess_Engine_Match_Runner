@@ -1,0 +1,17 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[SetUp "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5
+8. Rxe5 O-O 9. d4 Bf6 10. Re1 Re8 11. Bf4 Rxe1 12. Qxe1 Bxd4 13. Bxd6 cxd6 14.
+c3 Bf6 15. Na3 d5 16. Nb5 g6 17. Qd2 d4 18. Nxd4 d5 19. g3 h5 20. Re1 Bd7 21.
+Bg2 Bc6 22. h4 Qc7 23. Re3 Qb6 24. Rf3 Kg7 25. Rxf6 Kxf6 26. Qg5+ Kg7 27. Nf5+
+Kg8 28. Nh6+ Kg7 29. Nf5+ Kg8 30. Ne7+ Kg7 31. Nf5+ Kg8 32. Ne7+ Kg7 33. Nf5+
+Kg8 34. Ne7+ Kg7 35. Nf5+ 1/2-1/2
+
